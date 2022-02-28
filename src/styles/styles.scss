@@ -1,0 +1,15 @@
+@use './base/settings';
+@use './base/base';
+
+
+//components
+@import './components/auth';
+@import './components/buttons';
+@import './components/links';
+@import './components/journal';
+@import './components/nothingSelected';
+@import './components/notes';
+@import './components/loading';
+
+
+
